@@ -1,0 +1,9 @@
+Sample;Group;Target Gene Ct;
+S1;Control;22.4;18.1
+S2;Control;22.8;18.3
+S3;Control;23.1;18.0
+S4;Control;38.5;18.2
+S5;Treatment;19.2;18.1
+S6;Treatment;19.5;18.4
+S7;Treatment;;18.2
+S8;Treatment;19.1;18.0
